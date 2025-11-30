@@ -1,0 +1,11 @@
+{
+  "name": "ai-reply-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node api/reply.js"
+  },
+  "dependencies": {
+    "openai": "4.0.0"
+  }
+}
